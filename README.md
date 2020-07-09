@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I'm a service delivey manager based in Dublin, Ireland. I have an interest in Java and Python and also Red Hat linux administration.
+✨ I'm a service delivey manager based in Dublin, Ireland. I have an interest in Java, Kotlin and Python and also Red Hat linux administration.
 
 - 🔭 I’m currently working on a few Android projects
 - 🌱 I’m currently learning Python
