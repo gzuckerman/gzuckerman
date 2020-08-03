@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Gregory Zuckerman</h3>
 
-✨ I'm a service delivey manager based in Dublin, Ireland. With an interest in Swift, Java and Python and also Red Hat linux administration.
+✨ I'm a service delivey manager based in Plymouth, England. With an interest in Swift, Java and Python and also Red Hat linux administration.
 
 - 🔭 I’m currently working on a iOS Project
 - 🌱 I’m currently learning Swift/SwiftUI
