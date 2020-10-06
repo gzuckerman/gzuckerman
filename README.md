@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on a Android Project
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about: Java, Red Hat
+- 💬 Ask me about: Java, Linux, and AWS
