@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi there! Welcome to my GitHub profile</h3>
+<h2 align="center">👋 Hi there! Welcome to my GitHub profile</h3>
 
 Hi there! I'm Greg I'm based in Dublin, Ireland and have an active interest in web development. Interests including React, JavaScript, Python & Swift
 
