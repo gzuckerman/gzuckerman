@@ -7,3 +7,5 @@ Hi there! I'm Greg I'm based in Dublin, Ireland and have an active interest in w
 - 🌱 I’m currently learning web development with React
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about: Java, Linux, and AWS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzuckerman&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade)](https://gzuckerman.ie)
