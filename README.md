@@ -1,7 +1,7 @@
 
 <h2 align="left">👋 Hi there! Welcome to my GitHub profile</h3>
 
-Hi there! I'm Greg I'm based in Plymouth, England and have an active interest in iOS and web development.
+Hi there! I'm Greg I'm based in the UK/Germany and have an active interest in iOS and web development.
 
 - 🔭 I’m currently working on a iOS project
 - 🌱 I’m currently learning React
